@@ -1,4 +1,4 @@
-package mini_projects.StudentManager;
+package mini_projects.StudentManage;
 
 public class Student {
     int id;
