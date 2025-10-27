@@ -1,4 +1,4 @@
-package Java-mini-projects.StudentManager;
+package mini_projects.StudentManager;
 
 public class Student {
     int id;
@@ -6,7 +6,7 @@ public class Student {
     double marks;
 
     // Constructor
-    public Student(int id, String name, double marks){
+    public Student(int id, String name, double marks) {
         this.id = id;
         this.name = name;
         this.marks = marks;
@@ -17,3 +17,4 @@ public class Student {
         System.out.println("ID: " + id + ", Name: " + name + ", Marks: " + marks);
     }
 }
+
